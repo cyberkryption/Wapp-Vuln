@@ -1,4 +1,4 @@
 Wapp-Vuln
 =========
 
-Wapp-Vuln - a basic website surveying tool with some basic vulnerability identification capability
+A basic website surveying tool with some basic vulnerability identification capability. The core functionality is based on Wappalyzer by Elbert F.
